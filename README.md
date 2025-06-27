@@ -10,19 +10,7 @@ This project performs sentiment analysis on synthetic social media posts using N
 
 I used the **Social Media Sentiments Analysis** dataset from Kaggle, which includes synthetic posts from platforms like Reddit and Twitter.
 
-🔗 Dataset link: [Social Media Sentiments Analysis on Kaggle](https://www.kaggle.com/datasets/ravishah912/social-media-sentiments-analysis)
-
----
-
-## Files in This Repository
-
-| File                         | Description |
-|-----------------------------|-------------|
-| `Train.csv`                 | Labeled dataset with social media text and sentiment. |
-| `Test.csv`                  | Test dataset without labels. |
-| `Sentiment_Analysis.ipynb` | Jupyter Notebook with full analysis (Colab-ready). |
-| `Train_with_Predicted_Sentiment.csv` | Output with predicted sentiment labels. |
-| `README.md`                | This file. |
+🔗 Dataset link: [Social Media Sentiments Analysis on Kaggle](https://www.kaggle.com/datasets/abdullah0a/social-media-sentiment-analysis-dataset)
 
 ---
 
@@ -58,12 +46,6 @@ I used the **Social Media Sentiments Analysis** dataset from Kaggle, which inclu
 
 - **Pie Chart**: Proportion of predicted sentiment
 - **Bar Chart**: Count of each sentiment class
-
----
-
-## Output
-
-Final output file: `Train_with_Predicted_Sentiment.csv` contains original text and predicted sentiment labels.
 
 ---
 
